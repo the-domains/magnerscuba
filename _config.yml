@@ -1,7 +1,7 @@
 name: MagnerScuba
 favicon: null
-layout_spectrum: 0.76237
-typography_spectrum: 0.6316909263841808
+layout_spectrum: 0.68263
+typography_spectrum: 0.44007
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.0625
+    - '#c0d5f4'
+    - '#c4bca9'
+    - '#87959e'
+    - '#100b08'
+    - '#4c4134'
+  brandStrength: 0.5
   lightness: 0.8125
   saturation: 1
   rhythmicContrast: 0.5
